@@ -1,0 +1,11 @@
+dy {
+ font-family: Arial;
+ margin: 40px;
+}
+table {
+ border-collapse: collapse;
+ width: 60%;
+}
+th {
+ background-color: #b8c40f;
+}
